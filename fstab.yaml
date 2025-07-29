@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p159312-e1696421.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/xwalkciscobridge/main"
+    url: "https://author-p159312-e1696421.adobeaemcloud.com/bin/franklin.delivery/AfshanGitAdobe/xwalkciscobridge/main"
     type: "markup"
     suffix: ".html"
